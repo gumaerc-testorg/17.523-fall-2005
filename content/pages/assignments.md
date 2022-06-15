@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides information about assignments covered in the course
+  along with the student work.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -33,4 +35,4 @@ Student Work
 
 Student work appears courtesy of the author and is used with permission.
 
-Essay 2: "American Poverty" ([PDF]({{< baseurl >}}/resources/essay2)) (by Mikala P. Streeter)
+Essay 2: "American Poverty" ({{% resource_link f6356c55-6dac-7d11-c0e1-082281de94a4 "PDF" %}}) (by Mikala P. Streeter)
