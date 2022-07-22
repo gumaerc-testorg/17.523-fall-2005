@@ -6,6 +6,7 @@ file: /courses/17-523-ethnicity-and-race-in-world-politics-fall-2005/a30c57ff3e0
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: o_l4.pdf
 uid: a30c57ff-3e02-6ae8-1cd1-4da4541612d0
 ---
 This resource provides information about main issues, and theories of human rights.
-
