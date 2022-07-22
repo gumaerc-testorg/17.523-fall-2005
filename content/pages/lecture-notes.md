@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides information about lecture topics covered in the
+  class.
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Lecture Notes
 uid: 8780f61e-e01f-cf22-61f5-c4981a66ead1
 ---
@@ -48,9 +53,9 @@ Introduction: Objectives and Requirements of the Course
 Rethinking Ethnicity and Race
 {{< tdclose >}}
 {{< tdopen >}}
-Lec #2 ([PDF]({{< baseurl >}}/resources/o_l02))  
+Lec #2 ({{% resource_link 71f2d2d9-5dff-3009-8947-a0c22a0594c2 "PDF" %}})  
   
-Lec #3 ([PDF]({{< baseurl >}}/resources/o_l03))
+Lec #3 ({{% resource_link 570d008a-036b-cd4d-b7e6-13b5e1e73d47 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -65,10 +70,10 @@ Lec #3 ([PDF]({{< baseurl >}}/resources/o_l03))
 Ethnic and Racial Identities in Comparative Perspective 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/o_l04))
+({{% resource_link 588a3c86-4da6-1094-f7ff-6d511d3dae26 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/l_04))
+({{% resource_link f6d61d21-0541-ecb8-f7c5-ad7fba9b73bb "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -80,14 +85,14 @@ Ethnic and Racial Identities in Comparative Perspective 
 What are the Political Dimensions of Ethnicity and Race? 
 {{< tdclose >}}
 {{< tdopen >}}
-Lec #5 ([PDF]({{< baseurl >}}/resources/o_l05))
+Lec #5 ({{% resource_link 8acf75d5-054e-2e3b-7709-467127e8bed2 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-Lec #5 ([PDF]({{< baseurl >}}/resources/l_05))  
+Lec #5 ({{% resource_link 582cafb6-a470-6d98-e076-6cab0c819025 "PDF" %}})  
   
-Lec #6 ([PDF]({{< baseurl >}}/resources/l_06))  
+Lec #6 ({{% resource_link 8980d5d2-2535-af20-5b90-81026b2ffef3 "PDF" %}})  
   
-Lec #7 ([PDF]({{< baseurl >}}/resources/l_07))
+Lec #7 ({{% resource_link 1a456d17-9cb3-13b7-c55c-78e40e8cb9bd "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -102,7 +107,7 @@ A Framework for Analysis of Ethnopolitical Mobilization
  
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/l_08))
+({{% resource_link 4c94d846-4c05-04d2-2c79-387e8c0bc05d "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -114,12 +119,12 @@ A Framework for Analysis of Ethnopolitical Mobilization
 The Sources of Discontent: The Intersections of Race and Class 
 {{< tdclose >}}
 {{< tdopen >}}
-Lec #9 ([PDF]({{< baseurl >}}/resources/o_l09))
+Lec #9 ({{% resource_link 2e2e49a8-f08f-2328-8fc0-8d6a44af6319 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-Lec #9 ([PDF]({{< baseurl >}}/resources/l_09))  
+Lec #9 ({{% resource_link a255275c-9983-958f-674c-a7b1536dc846 "PDF" %}})  
   
-Lec #10 ([PDF]({{< baseurl >}}/resources/l_10))
+Lec #10 ({{% resource_link 747a6ccd-86a7-74fd-d04d-207755566c08 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -131,10 +136,10 @@ Lec #10 ([PDF]({{< baseurl >}}/resources/l_10))
 Government Responses to Ethnopolitical Demands and Group Disadvantage
 {{< tdclose >}}
 {{< tdopen >}}
-Lec #11 ([PDF]({{< baseurl >}}/resources/o_l11))
+Lec #11 ({{% resource_link ffd69622-f409-710f-a212-c57d9fc48319 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-Lec #11 ([PDF]({{< baseurl >}}/resources/l_11))
+Lec #11 ({{% resource_link 556518ca-80bc-a82e-5911-795d588418f2 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -146,10 +151,10 @@ Lec #11 ([PDF]({{< baseurl >}}/resources/l_11))
 International Dimensions of National Ethnopolitical Conflicts
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/o_l13))
+({{% resource_link 605a76be-216b-189d-1637-9291c1131d4b "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/l_13))
+({{% resource_link b29f7d77-bc36-1170-b376-14c183cbbf73 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -161,12 +166,12 @@ International Dimensions of National Ethnopolitical Conflicts
 The Emergence of International Human Rights 
 {{< tdclose >}}
 {{< tdopen >}}
-Lec #14 ([PDF]({{< baseurl >}}/resources/o_l4))
+Lec #14 ({{% resource_link a30c57ff-3e02-6ae8-1cd1-4da4541612d0 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-Lec #14 ([PDF]({{< baseurl >}}/resources/l_14))  
+Lec #14 ({{% resource_link 0650bd74-7c82-8d11-11ce-e85e5598ba6e "PDF" %}})  
   
-Lec #15 ([PDF]({{< baseurl >}}/resources/l_15))
+Lec #15 ({{% resource_link 853382ea-8445-a31a-9f1c-50a5047e1ff2 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -178,14 +183,14 @@ Lec #15 ([PDF]({{< baseurl >}}/resources/l_15))
 Are Human Rights Universal?: Women's Rights versus Cultural Practices 
 {{< tdclose >}}
 {{< tdopen >}}
-Lec #16 ([PDF]({{< baseurl >}}/resources/o_l16))
+Lec #16 ({{% resource_link 439aaaeb-819a-fe86-9486-7ca813de421d "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-Lec #16 ([PDF]({{< baseurl >}}/resources/l_16))  
+Lec #16 ({{% resource_link 90a18dfc-c47b-92d6-7573-6ce0fb8ec8c9 "PDF" %}})  
   
-Lec #17 ([PDF]({{< baseurl >}}/resources/l_17))  
+Lec #17 ({{% resource_link 7de2fd77-edd4-802c-0dce-1d3a8bf60423 "PDF" %}})  
   
-Lec #18 ([PDF]({{< baseurl >}}/resources/l_18))
+Lec #18 ({{% resource_link 2eb6a037-87b3-2ceb-36cf-bc6dd909bb55 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -200,7 +205,7 @@ Human Rights and Foreign Policy: Should Outsiders Assist the Ethnic/Racial Group
  
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/l_19))
+({{% resource_link a272e136-d370-f0a8-710d-86e78a1b8f86 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -215,13 +220,13 @@ International Humanitarian Intervention: Bosnia vs. Darfur, Sudan and Rwanda
  
 {{< tdclose >}}
 {{< tdopen >}}
-Lec #20 ([PDF]({{< baseurl >}}/resources/l_20))  
+Lec #20 ({{% resource_link b489a525-39af-87ca-f5f9-02f8eb932dd4 "PDF" %}})  
   
-Lec #21 ([PDF]({{< baseurl >}}/resources/l_21))  
+Lec #21 ({{% resource_link c4e640b0-e00d-31cc-87c6-72d2eedea792 "PDF" %}})  
   
-Lec #22 ([PDF]({{< baseurl >}}/resources/l_22))  
+Lec #22 ({{% resource_link 574b457d-8d5b-e72b-d63f-be9bb0767d21 "PDF" %}})  
   
-Lec #23 ([PDF]({{< baseurl >}}/resources/l_23))
+Lec #23 ({{% resource_link 4325c92f-df16-91e2-6b0b-f680ceb66b80 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -236,7 +241,7 @@ Ethnic Minority Rights, Human Rights, and Sovereignty
  
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/l_24))
+({{% resource_link 35bec515-4588-dd51-f003-72b7f6baf338 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -251,9 +256,9 @@ Review Class - Lessons Learned and Looking Forward
  
 {{< tdclose >}}
 {{< tdopen >}}
-Lec #25 ([PDF]({{< baseurl >}}/resources/l_25))  
+Lec #25 ({{% resource_link 1f52b55d-4825-061c-b001-b6b62c98be5c "PDF" %}})  
   
-Lec #26 ([PDF]({{< baseurl >}}/resources/l_26))
+Lec #26 ({{% resource_link e12308cf-3a77-8a21-8a11-225a921836a7 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
