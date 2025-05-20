@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource provides information about main issues, and theories of
   human rights.
-file: /ol-ocw-studio-app/courses/17-523-ethnicity-and-race-in-world-politics-fall-2005/a30c57ff3e026ae81cd14da4541612d0_o_l4.pdf
+file: /courses/17-523-ethnicity-and-race-in-world-politics-fall-2005/a30c57ff3e026ae81cd14da4541612d0_o_l4.pdf
 file_size: 56606
 file_type: application/pdf
 learning_resource_types:
